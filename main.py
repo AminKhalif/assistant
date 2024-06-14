@@ -3,7 +3,7 @@ from openai import OpenAI
 import time
 import json
 
-# initiliaze secrets
+# Initiliaze secrets
 openai_secret = os.environ['OPENAI_API_KEY']
 pplx_secret = os.environ["PPLX_API_KEY"]
 
